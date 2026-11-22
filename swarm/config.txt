@@ -12,6 +12,6 @@ dt                 0.05
 # Run
 steps              100
 warmup             1
-seed               1
+seed               67
 block_size         256
 tolerance          0.001
