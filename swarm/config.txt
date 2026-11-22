@@ -1,0 +1,17 @@
+# Simulation
+density            3.0
+neighbor_radius    1.0
+separation_radius  0.4
+separation_weight  1.5
+alignment_weight   1.0
+cohesion_weight    1.0
+max_speed          2.0
+start_speed        1.0
+dt                 0.05
+
+# Run
+steps              100
+warmup             1
+seed               1
+block_size         256
+tolerance          0.001

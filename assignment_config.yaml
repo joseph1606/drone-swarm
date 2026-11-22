@@ -1,0 +1,10 @@
+folder: swarm
+
+build:
+  - []
+
+run:
+  - [verify, 4096]
+  - [cpu, 4096]
+  - [naive, 4096]
+  - [naive, 65536]
